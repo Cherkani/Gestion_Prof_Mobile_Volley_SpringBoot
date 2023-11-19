@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GestionprofApplication<gestionprof>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ma.ensaj.gestionprof.GestionprofApplication",
+            "projectName": "gestionprof",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

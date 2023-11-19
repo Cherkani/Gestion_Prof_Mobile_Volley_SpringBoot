@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/rouded_shape">
+
+        <TextView
+            android:id="@+id/nomeditTextStudent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="101dp"
+            android:layout_marginTop="37dp"
+            android:layout_marginEnd="217dp"
+            android:layout_marginBottom="64dp"
+            android:text="Nom :"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/prenomeditTextStudent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="103dp"
+            android:layout_marginTop="91dp"
+            android:layout_marginEnd="169dp"
+            android:layout_marginBottom="10dp"
+            android:background="#FFF"
+            android:padding="10dp"
+            android:text="Prénom :"
+            android:textSize="20dp"
+            tools:ignore="UnknownId" />
+
+        <TextView
+            android:id="@+id/emaileditTextStudent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/prenomeditTextStudent"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="103dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="#FFF"
+            android:padding="10dp"
+            android:text="Email :"
+            android:textSize="20dp"
+            tools:ignore="UnknownId" />
+
+        <TextView
+            android:id="@+id/telephoneeditTextStudent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/emaileditTextStudent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="103dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="146dp"
+            android:layout_marginBottom="10dp"
+            android:background="#FFF"
+            android:padding="10dp"
+            android:text="Téléphone :"
+            android:textSize="20dp"
+            tools:ignore="UnknownId" />
+
+        <TextView
+            android:id="@+id/dateEmbaucheeditTextStudent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/telephoneeditTextStudent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="103dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="84dp"
+            android:layout_marginBottom="10dp"
+            android:background="#FFF"
+            android:padding="10dp"
+            android:text="Date d'embauche :"
+            android:textSize="20dp"
+            tools:ignore="UnknownId" />
+
+        <TextView
+            android:id="@+id/spinnerprofesseurTextStudent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dateEmbaucheeditTextStudent"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="103dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="#FFF"
+            android:padding="10dp"
+            android:text="Spécialité :"
+            android:textSize="20dp"
+            tools:ignore="UnknownId" />
+
+
+    </RelativeLayout>
+</RelativeLayout>

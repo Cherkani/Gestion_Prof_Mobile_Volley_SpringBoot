@@ -1,0 +1,10 @@
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/services/ProfesseurService.java
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/entities/Professseur.java
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/repository/SpecialiteRepository.java
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/dao/IDao.java
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/controller/ProfesseurController.java
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/repository/ProfesseurRepository.java
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/entities/Specialite.java
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/services/SpecialiteService.java
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/controller/SpecialteController.java
+/tmp/a00n/gestionprof/src/main/java/ma/ensaj/gestionprof/GestionprofApplication.java

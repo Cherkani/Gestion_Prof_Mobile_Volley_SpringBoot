@@ -1,0 +1,10 @@
+ma/ensaj/gestionprof/repository/ProfesseurRepository.class
+ma/ensaj/gestionprof/services/SpecialiteService.class
+ma/ensaj/gestionprof/entities/Specialite.class
+ma/ensaj/gestionprof/repository/SpecialiteRepository.class
+ma/ensaj/gestionprof/GestionprofApplication.class
+ma/ensaj/gestionprof/entities/Professseur.class
+ma/ensaj/gestionprof/services/ProfesseurService.class
+ma/ensaj/gestionprof/controller/SpecialteController.class
+ma/ensaj/gestionprof/controller/ProfesseurController.class
+ma/ensaj/gestionprof/dao/IDao.class
